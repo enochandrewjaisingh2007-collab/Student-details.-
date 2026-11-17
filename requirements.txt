@@ -1,0 +1,9 @@
+Streamlit
+greet()
+StudentIntroduction
+StudentMarks
+__init__
+.display()
+get_average()
+check_status()
+min()
